@@ -22,13 +22,5 @@ https://www.kaggle.com/datasets/saldenisov/recipenlg/data
   
 ## Final Weights
 [best.pt](https://github.com/0108khushi/Dish-from-Ingredients/blob/main/best.pt) contains the final weights <br />
-## Results
-Following is the link to the final results : <br /> 
-https://drive.google.com/file/d/1Piw-cMs7X48Sb6e0Ai_R2QAN8y8Vofsk/view?usp=drivesdk<br />
-Due to repeated disconnectivity and long training hours, 12 out of 50 epochs were run.
-![train_batch1 (1)](https://github.com/0108khushi/Dish-from-Ingredients/assets/122373474/84c46a0d-8ea0-451a-b694-216b30970f66)
-![train_batch2](https://github.com/0108khushi/Dish-from-Ingredients/assets/122373474/cdf37137-9e40-42ad-a9b0-e05b2b8038f4)
 
-## Report
-Following is the report for summarising the project : <br />
-https://docs.google.com/document/d/1PpAUkKeEsCXKjy35Uhju8UfXXaDVLMMWnAzn4FY26Yc/edit#heading=h.yb0qqakihcik <br />
+
