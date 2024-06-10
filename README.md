@@ -1,4 +1,4 @@
-# Dish-from-Ingredients
+# Ingredients-to-Dish
 The project aims to suggest dish from the image of available ingredients.<br />
 This uses the following libraries and dependencies :<br />
 -> Bing Image Downloader for Dataset<br />
